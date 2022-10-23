@@ -1,5 +1,5 @@
 import Debug.ConsoleOut;
-import Interaction.Command.Interactor;
+import Command.Interactor;
 import java.util.Scanner;
 
 public class Main {
